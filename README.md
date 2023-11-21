@@ -2,8 +2,6 @@
 
 Analista de suporte junior no sistema SAP B1, possuo habilidades analíticas e conhecimento em diversas aplicações que colaboram para a análise de entraves. Em constante estudo na área de tecnologia, tanto no ensino superior, quanto via cursos. Sempre estou disposto a aprender coisas novas e úteis, para que dessa forma, possa enriquecer meu repertório profissional.
 
-Atualmente desenvolvo projetos pessoais os quais facilitam o meu dia a dia, 
-
 <br>
 
 ### Formação acadêmica
