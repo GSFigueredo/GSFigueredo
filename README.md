@@ -47,8 +47,8 @@ Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompan
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSFigueredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GSFigueredo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GSFigueredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GSFigueredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -61,10 +61,10 @@ Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompan
   <a href="https://www.linkedin.com/in/gabrielfigueredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/seu_usuario" target="_blank">
+  <a href="https://instagram.com/0Figueredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:gabriel.sfigueredo8@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
@@ -72,8 +72,6 @@ Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompan
 ###
 
 <h3 align="left">🐍 Minhas Contribuições</h3>
-
-###
 
 <img src="https://raw.githubusercontent.com/GSFigueredo/GSFigueredo/output/snake.svg" alt="Snake animation" />
 
