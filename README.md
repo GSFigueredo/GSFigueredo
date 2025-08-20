@@ -43,7 +43,7 @@ Sou um profissional da área de <strong>análise de dados</strong> com experiên
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabrielfigueredo" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-figueredo-340891266/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://instagram.com/0Figueredo" target="_blank">
