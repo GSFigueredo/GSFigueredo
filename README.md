@@ -7,11 +7,7 @@
 ###
 
 <h3 align="left">
-Sou um profissional da área de <strong>análise de dados</strong> com experiência em <strong>SAP HANA SQL</strong>, <strong>Power BI</strong>, <strong>Crystal Reports</strong> e outras ferramentas.  
-Crio soluções para integração, extração e visualização de informações estratégicas.  
-Atualmente, estou ampliando meus conhecimentos na área de <strong>desenvolvimento</strong>, estudando <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>Bootstrap</strong>.  
-Meu objetivo é unir minhas habilidades em <strong>dados</strong> e <strong>desenvolvimento</strong> para criar soluções completas, transformando informações em insights e experiências digitais de qualidade.  
-Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompanhar as melhores práticas do mercado.
+Sou um profissional da área de <strong>análise de dados</strong> com experiência em <strong>SAP HANA SQL</strong>, <strong>Power BI</strong>, <strong>Crystal Reports</strong> e outras ferramentas. Crio soluções para integração, extração e visualização de informações estratégicas. Atualmente, estou ampliando meus conhecimentos na área de <strong>desenvolvimento</strong>. Meu objetivo é unir minhas habilidades em <strong>dados</strong> e <strong>desenvolvimento</strong> para criar soluções completas, transformando informações em insights e experiências digitais de qualidade. Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompanhar as melhores práticas do mercado.
 </h3>
 
 ###
