@@ -69,9 +69,4 @@ Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompan
   </a>
 </div>
 
-###
-
-<h3 align="left">🐍 Minhas Contribuições</h3>
-
-<img src="https://raw.githubusercontent.com/GSFigueredo/GSFigueredo/output/snake.svg" alt="Snake animation" />
 
