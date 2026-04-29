@@ -1,20 +1,26 @@
 <h1 align="left">Olá 👋</h1>
 
-###
-
 <h3 align="left">Me chamo Gabriel Figueredo</h3>
 
-###
-
 <h3 align="left">
-Sou um profissional da área de <strong>análise de dados</strong> com experiência em <strong>SAP HANA SQL</strong>, <strong>Power BI</strong>, <strong>Crystal Reports</strong> e outras ferramentas. Crio soluções para integração, extração e visualização de informações estratégicas. Atualmente, estou ampliando meus conhecimentos na área de <strong>desenvolvimento</strong>. Meu objetivo é unir minhas habilidades em <strong>dados</strong> e <strong>desenvolvimento</strong> para criar soluções completas, transformando informações em insights e experiências digitais de qualidade. Estou sempre em busca de <strong>aprimorar meus conhecimentos</strong> e acompanhar as melhores práticas do mercado.
+Sou um profissional da área de <strong>Dados e Desenvolvimento</strong>, com experiência sólida em <strong>SAP Business One (SAP B1)</strong> e forte atuação em <strong>SQL</strong>, incluindo desenvolvimento de <strong>queries complexas</strong>, <strong>procedures</strong>, <strong>triggers</strong> e regras de negócio diretamente no banco de dados.
 </h3>
 
-###
+<h3 align="left">
+Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, trabalhando na área de tecnologia como <strong>Analista de Dados e Desenvolvedor</strong>, utilizando ferramentas como <strong>Power BI</strong>, <strong>SAP HANA SQL</strong> e <strong>Crystal Reports</strong> para transformar dados em informações estratégicas.
+</h3>
+
+<h3 align="left">
+Tenho como foco a criação de soluções completas, unindo <strong>engenharia de dados</strong>, <strong>visualização</strong> e <strong>desenvolvimento</strong>, sempre buscando eficiência, automação e geração de valor para o negócio.
+</h3>
+
+<h3 align="left">
+Atualmente estou aprofundando meus conhecimentos em <strong>desenvolvimento de software</strong>, com o objetivo de integrar cada vez mais o mundo de dados com aplicações modernas.
+</h3>
+
+---
 
 <h3 align="left">🛠 Ferramentas & Tecnologias</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -36,11 +42,9 @@ Sou um profissional da área de <strong>análise de dados</strong> com experiên
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">📬 Contato</h3>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-figueredo-340891266/" target="_blank">
@@ -53,5 +57,3 @@ Sou um profissional da área de <strong>análise de dados</strong> com experiên
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
-
