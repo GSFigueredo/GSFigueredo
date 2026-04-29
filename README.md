@@ -7,7 +7,7 @@ Sou um profissional da área de tecnologia, atuando como <strong>Analista de Dad
 </h3>
 
 <h3 align="left">
-Tenho forte atuação em <strong>SQL</strong>, com desenvolvimento de <strong>queries complexas</strong>, <strong>procedures</strong>, <strong>triggers</strong> e implementação de regras de negócio diretamente no banco de dados.
+Tenho forte atuação em <strong>SQL</strong>, com desenvolvimento de <strong>queries complexas</strong>, <strong>procedures</strong>, <strong>triggers</strong> e implementação de regras de negócio.
 </h3>
 
 <h3 align="left">
