@@ -15,7 +15,7 @@ Como <strong>Desenvolvedor Fullstack</strong>, trabalho tanto no <strong>front-e
 </h3>
 
 <h3 align="left">
-Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, na área de tecnologia, utilizando ferramentas como <strong>Power BI</strong>, <strong>SAP HANA SQL</strong> e <strong>Crystal Reports</strong> para transformar dados em informações estratégicas e apoiar a tomada de decisão.
+Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, na área de tecnologia (Analista de dados e Desenvolvedor), utilizando ferramentas como <strong>Power BI</strong>, <strong>SAP HANA SQL</strong> e <strong>Crystal Reports</strong> para transformar dados em informações estratégicas e apoiar a tomada de decisão.
 </h3>
 
 <h3 align="left">
