@@ -3,7 +3,7 @@
 <h3 align="left">Me chamo Gabriel Figueredo</h3>
 
 <h3 align="left">
-Sou um profissional da área de <strong>Dados e Desenvolvimento Fullstack</strong>, atuando como <strong>Analista de Dados e Desenvolvedor</strong>, com experiência sólida em <strong>SAP Business One (SAP B1)</strong>.
+Sou um profissional da área de tecnologia, atuando como <strong>Analista de Dados e Desenvolvedor FullStack</strong>, com experiência sólida em <strong>SAP Business One (SAP B1)</strong>.
 </h3>
 
 <h3 align="left">
