@@ -11,7 +11,7 @@ Tenho forte atuação em <strong>SQL</strong>, com desenvolvimento de <strong>qu
 </h3>
 
 <h3 align="left">
-Como <strong>Desenvolvedor Fullstack</strong>, trabalho tanto no <strong>front-end</strong> (interfaces web modernas) quanto no <strong>back-end</strong>, desenvolvendo <strong>APIs</strong>, integrações e soluções completas de ponta a ponta.
+Como <strong>Desenvolvedor Fullstack</strong>, trabalho tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>, desenvolvendo <strong>APIs</strong>, integrações e soluções completas de ponta a ponta.
 </h3>
 
 <h3 align="left">
