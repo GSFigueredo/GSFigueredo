@@ -19,7 +19,7 @@ Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, na área de tecnologi
 </h3>
 
 <h3 align="left">
-Tenho como foco a criação de soluções completas, unindo <strong>engenharia de dados</strong>, <strong>desenvolvimento de software</strong> e <strong>visualização</strong>, sempre buscando eficiência, automação e geração de valor para o negócio.
+Tenho como foco a criação de soluções completas, unindo <strong>ciência de dados</strong>, <strong>desenvolvimento de software</strong> e <strong>visualização</strong>, sempre buscando eficiência, automação e geração de valor para o negócio.
 </h3>
 
 <h3 align="left">
