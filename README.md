@@ -3,19 +3,27 @@
 <h3 align="left">Me chamo Gabriel Figueredo</h3>
 
 <h3 align="left">
-Sou um profissional da área de <strong>Dados e Desenvolvimento</strong>, com experiência sólida em <strong>SAP Business One (SAP B1)</strong> e forte atuação em <strong>SQL</strong>, incluindo desenvolvimento de <strong>queries complexas</strong>, <strong>procedures</strong>, <strong>triggers</strong> e regras de negócio diretamente no banco de dados.
+Sou um profissional da área de <strong>Dados e Desenvolvimento Fullstack</strong>, atuando como <strong>Analista de Dados e Desenvolvedor</strong>, com experiência sólida em <strong>SAP Business One (SAP B1)</strong>.
 </h3>
 
 <h3 align="left">
-Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, trabalhando na área de tecnologia como <strong>Analista de Dados e Desenvolvedor</strong>, utilizando ferramentas como <strong>Power BI</strong>, <strong>SAP HANA SQL</strong> e <strong>Crystal Reports</strong> para transformar dados em informações estratégicas.
+Tenho forte atuação em <strong>SQL</strong>, com desenvolvimento de <strong>queries complexas</strong>, <strong>procedures</strong>, <strong>triggers</strong> e implementação de regras de negócio diretamente no banco de dados.
 </h3>
 
 <h3 align="left">
-Tenho como foco a criação de soluções completas, unindo <strong>engenharia de dados</strong>, <strong>visualização</strong> e <strong>desenvolvimento</strong>, sempre buscando eficiência, automação e geração de valor para o negócio.
+Como <strong>Desenvolvedor Fullstack</strong>, trabalho tanto no <strong>front-end</strong> (interfaces web modernas) quanto no <strong>back-end</strong>, desenvolvendo <strong>APIs</strong>, integrações e soluções completas de ponta a ponta.
 </h3>
 
 <h3 align="left">
-Atualmente estou aprofundando meus conhecimentos em <strong>desenvolvimento de software</strong>, com o objetivo de integrar cada vez mais o mundo de dados com aplicações modernas.
+Atualmente atuo no <strong>Grupo Tesoura de Ouro</strong>, na área de tecnologia, utilizando ferramentas como <strong>Power BI</strong>, <strong>SAP HANA SQL</strong> e <strong>Crystal Reports</strong> para transformar dados em informações estratégicas e apoiar a tomada de decisão.
+</h3>
+
+<h3 align="left">
+Tenho como foco a criação de soluções completas, unindo <strong>engenharia de dados</strong>, <strong>desenvolvimento de software</strong> e <strong>visualização</strong>, sempre buscando eficiência, automação e geração de valor para o negócio.
+</h3>
+
+<h3 align="left">
+Estou em constante evolução, aprofundando meus conhecimentos em arquitetura de sistemas e desenvolvimento moderno, com o objetivo de construir aplicações cada vez mais robustas e escaláveis.
 </h3>
 
 ---
